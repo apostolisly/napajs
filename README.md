@@ -2,6 +2,7 @@
 [![Build Status for Windows](https://ci.appveyor.com/api/projects/status/github/Microsoft/napajs?branch=master&svg=true)](https://ci.appveyor.com/project/napajs/napajs)
 [![npm version](https://badge.fury.io/js/napajs.svg)](https://www.npmjs.com/package/napajs)
 [![Downloads](https://img.shields.io/npm/dm/napajs.svg)](https://www.npmjs.com/package/napajs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fnapajs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fnapajs?ref=badge_shield)
 
 # Napa.js
 Napa.js is a multi-threaded JavaScript runtime built on [V8](https://github.com/v8/v8), which was originally designed to develop highly iterative services with non-compromised performance in Bing. As it evolves, we find it useful to complement [Node.js](https://nodejs.org) in CPU-bound tasks, with the capability of executing JavaScript in multiple V8 isolates and communicating between them. Napa.js is exposed as a Node.js module, while it can also be embedded in a host process without Node.js dependency.
@@ -60,3 +61,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](https://github.com/Microsoft/napajs/blob/master/LICENSE.txt) License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fnapajs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fnapajs?ref=badge_large)
